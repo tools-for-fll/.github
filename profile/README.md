@@ -61,3 +61,6 @@ FIRST&reg; LEGO&reg; League is a jointly held trademark of FIRST&reg;
 (https://www.firstinspires.org) and the LEGO Group, neither of which is
 overseeing, involved with, or responsible for this activity, product, or
 service.
+
+LEGO&reg; is a trademark of the LEGO Group of companies which does not sponsor,
+authorize or endorse this site.
