@@ -1,17 +1,17 @@
 Tools For FLL
 =============
 
-This is an assortment of tools and resources to improve the FLL experience.
 FIRST&reg; LEGO&reg; League (FLL) is a global robotics competition that
 introduces science, technology, engineering, and math (STEM) to children ages
 4-16[^1] through fun, exciting hands-on learning. Participants gain real-world
 problem solving experience through a guided, global robotics program, helping
 today's students and teachers build a better future together.
 
+This is an assortment of tools and resources to improve the FLL experience.
 These tools are generally divided into two categories:
 
-* Tools for teams: These are tools that are mainly helpful to individual teams
-  (either the students, the coaches, or both). In this category are:
+* *Tools for teams*: These are tools that are mainly helpful to individual
+  teams (either the students, the coaches, or both). In this category are:
 
   - [FLL Scoring App](https://github.com/tools-for-fll/FLLScoringApp) - a
     progressive web app (PWA) that can be easily installed on a mobile device
@@ -24,13 +24,12 @@ These tools are generally divided into two categories:
     robot move around the field. At this point, this is functional but still a
     work in progress (notably, there is no documentation!).
 
-* Tools for events: These are tools that are mainly helpful to event organizers
-  (either official events or scrimmages). In this category is:
+* *Tools for events*: These are tools that are mainly helpful to event
+  organizers (either official events or scrimmages). In this category is:
 
   - [FLL Scorer](https://github.com/tools-for-fll/FLLScorer) - a Java
     application for performing robot game scoring at an event, including a
     match timer and audience display of the live robot game results.
-
 
 [^1]: Ages vary by country
 
